@@ -8,6 +8,9 @@ Paraphrasing using LSTM Autoencoders
 # Pretrained Word Embeddings Used:
 
 - GloVe from GitHub: https://github.com/stanfordnlp/GloVe
-For this project is used `Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 300d vectors, 822 MB download)`
+
+	For this project is used `Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 300d vectors, 822 MB download)`
+
 - Direct link to download: http://nlp.stanford.edu/data/wordvecs/glove.6B.zip
+
   
